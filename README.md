@@ -1,7 +1,7 @@
 # Quest Tabela
 Primeiro projeto de exercicio com HTML e CSS 🚀
 
-<img src="./img/tabela.png" alt=" Imagem da tabela pronta">
+<img src="./img/Tabela.png" alt=" Imagem da tabela pronta">
 
 ## Tecnologias utilizadas
 - HTML
